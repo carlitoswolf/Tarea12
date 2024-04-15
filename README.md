@@ -1,5 +1,3 @@
-# Tarea12
-
 Reglas de la Multiplicación Binaria:
 
 1. Alineación:
